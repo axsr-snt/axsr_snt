@@ -1,6 +1,6 @@
 - 👋 Hi, I’m alexsander santos (@axsr-snt)
 - 👀 I’m interested in web development and applications
-- 🌱 I’m currently learning Java, Python end Javascript
+- 🌱 I’m currently learning Java end Javascript
 - 📫 How to reach me axsr.snt@gmail.com
 
 <!---
